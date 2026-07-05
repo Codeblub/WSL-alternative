@@ -1,6 +1,6 @@
 @echo off
 .\qemu\qemu-system-x86_64.exe ^
-    -kernel linux\arch\x86\boot\bzImage ^
+    -kernel OS\arch\x86\boot\bzImage ^
     -initrd initramfs.cpio.gz ^
     -append "console=ttyS0 root=/dev/ram" ^
     -nographic
