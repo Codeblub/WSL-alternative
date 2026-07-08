@@ -1,4 +1,5 @@
 @echo off
+title WSL-Alt
 .\qemu\qemu-system-x86_64.exe ^
     -kernel OS\arch\x86\boot\bzImage ^
     -initrd initramfs.cpio.gz ^
