@@ -1,13 +1,15 @@
 # WSL-Alternative
 
-WSL-Alt (Windows Subsystem Linux Alternative) or BSL (Blubs subsystem Linux) is an alternative version of linux susbsystem. If your like me and wsl cant install for a particular reason, or need a user friendly version, BSL is your program. It's Like WSl but without any install and its portable. Like WSL being Ubunbtu based, BSL is also ubuntu based. If there are any isses, please let me know in the issues tab. Right now i am working on a way to replicate WSL properties so it acts like wsl and so wsl apps work on it. 
+### WSL-Alt (Windows Subsystem Linux Alternative) or BSL (Blubs subsystem Linux) is an alternative version of linux subsystem. If you're like me and wsl cant install for a particular reason, or need a user friendly version, BSL is your program. It's Like WSl but without any install and its portable. Like WSL being Ubuntu based, BSL is also ubuntu based. If there are any issues, please let me know in the issues tab. Right now i am working on a way to replicate WSL properties so it acts like wsl and so wsl apps work on it. 
 
 
 
 # Contents
 
- 1. 
 
+## 1. [Minimum Device specifications](https://github.com/Codeblub/WSL-alternative/blob/main/README.md#minimum-device-hardware-specifications)
+## 2. [Install Guide](https://github.com/Codeblub/WSL-alternative/blob/main/README.md#install-guide)
+## 3. [Modifying Hardware](https://github.com/Codeblub/WSL-alternative/blob/main/README.md#modifing-the-hardware)
 
 
 
@@ -21,22 +23,23 @@ WSL-Alt (Windows Subsystem Linux Alternative) or BSL (Blubs subsystem Linux) is 
 
  - 1 GHz processor
 
- - 40gb free
+ - 40gb of free storage
 
  - 2-4GB of ram
 
  - No GPU required
 
-# Install Guide
+# 🚀 Quick Start
 
-First all you need to do is run the run.bat file. then with some patience and time, it should load up booted into the OS.
+1. Unblock: Right-click run.bat > Properties > check Unblock > OK.
 
-The Default user is going to be User but you can just make a new user or login to root.
+2. Execute: Run run.bat and wait for the system to boot.
 
+3. Login: Default user is User. Default password is 1234. You can also log in as root.
 
-# Modifing the Hardware
+# ⚙️ Modifing the Hardware
 
-If you think you have a better PC and want to upgrade storeage or are rich and have ram, here is how to do it.
+To increase storage and ram, follow these steps:
 
 ### Storage
 
@@ -76,6 +79,7 @@ title BSL
 pause
 ```
 
-Locate this line
-` -m 4G`
-Change the 4G to as much ram as you like to use.
+Locate this line "` -m 4G`", Change the 4G to as much ram as you like to use.
+
+
+# That's All Have Fun Linuxing 🐧
