@@ -6,10 +6,10 @@
 
 # Contents
 
-
-## 1. [Minimum Device specifications](https://github.com/Codeblub/WSL-alternative/blob/main/README.md#minimum-device-hardware-specifications)
-## 2. [Install Guide](https://github.com/Codeblub/WSL-alternative/blob/main/README.md#install-guide)
-## 3. [Modifying Hardware](https://github.com/Codeblub/WSL-alternative/blob/main/README.md#modifing-the-hardware)
+## 1. [What I am working on and changelogs]()
+## 2. [Minimum Device specifications](https://github.com/Codeblub/WSL-alternative/blob/main/README.md#minimum-device-hardware-specifications)
+## 3. [Install Guide](https://github.com/Codeblub/WSL-alternative/blob/main/README.md#install-guide)
+## 4. [Modifying Hardware](https://github.com/Codeblub/WSL-alternative/blob/main/README.md#modifing-the-hardware)
 
 
 
