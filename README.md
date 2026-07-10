@@ -45,6 +45,8 @@ V1 of BSL is coming out on July 10th, 2026. It has Ubuntu server installed, and 
 
 2. Execute: Run run.bat and wait for the system to boot.
 
+   Note: its might take 1-4 mins depending on you hardware
+
 3. Login: Default user is User. Default password is 1234. You can also log in as root.
 
 # ⚙️ Modifing the Hardware
