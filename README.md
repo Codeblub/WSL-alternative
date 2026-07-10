@@ -81,15 +81,15 @@ There you should see this
 @echo off
 title BSL
 .\qemu\qemu-system-x86_64.exe ^
-    -m 4G ^
+    -m 6G ^
     -cdrom ubuntu.iso ^
     -drive file=Bsl.img,format=raw,if=virtio ^
-    -boot d ^
+    -boot c ^
     -vga std
 pause
 ```
 
-Locate this line "` -m 4G`", Change the 4G to as much ram as you like to use.
+Locate this line "` -m 6G`", Change the 4G to as much ram as you like to use.
 
 
 # That's All Have Fun Linuxing 🐧
