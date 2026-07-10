@@ -1,6 +1,6 @@
 # WSL-Alternative
 
-### WSL-Alt (Windows Subsystem Linux Alternative) or BSL (Blubs subsystem Linux) is an alternative version of linux subsystem. If you're like me and wsl cant install for a particular reason, or need a user friendly version, BSL is your program. It's Like WSl but without any install and its portable. Like WSL being Ubuntu based, BSL is also ubuntu based. If there are any issues, please let me know in the issues tab. Right now i am working on a way to replicate WSL properties so it acts like wsl and so wsl apps work on it. 
+### WSL-Alt (Windows Subsystem Linux Alternative) or BSL (Blubs subsystem Linux) is an alternative version of linux subsystem. If you're like me and wsl cant install for a particular reason, or need a user friendly version, BSL is your program. It's Like WSl but without any install and its portable. Like WSL being Ubuntu based, BSL is also ubuntu based. If there are any issues, please let me know in the issues tab.
 
 
 
@@ -16,7 +16,17 @@
 
 
 
+## Currently working on
 
+Right now I am packing up and testing if this works on other systems. Alongside that I am also currently working wsl app support. I'm trying to replicate wsl so apps like usbipd can work. 
+
+
+
+
+
+### Changelog
+
+V1 of BSL is coming out on July 10th, 2026. It has Ubuntu server installed, and also has mouse and keyboard support too.
 
 
 ## Minimum Device hardware specifications
